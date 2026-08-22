@@ -112,7 +112,7 @@ The FinBERT predictions are also aggregated to calculate an overall market senti
                     ┌──────────────────────┐
                     │ Streamlit Dashboard  │
                     └──────────────────────┘
-
+```
 
 ---
 
