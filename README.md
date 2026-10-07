@@ -1,5 +1,7 @@
 # 📈 Gold Market Sentiment Analyzer
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://gold-market-sentiment-analyzer.streamlit.app/)
+
 An NLP-based financial news sentiment analysis system that collects gold-related financial news and analyzes market sentiment using **FinBERT** and **VADER**.
 
 The system compares predictions from both sentiment models and presents the results through an interactive **Streamlit dashboard**.
